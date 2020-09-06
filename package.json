@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "dependencies": {
     "@tailwindcss/ui": "^0.5.0",
-    "tailwindcss": "^1.7.2"
+    "tailwindcss": "^1.8.3"
   }
 }
